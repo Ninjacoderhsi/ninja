@@ -1,0 +1,30 @@
+packed org.ninjacoder.vscode.library.app
+
+
+
+  import -> util.*
+  import ->type.runer -> from run
+  import ->type.java -> from c 
+  
+  public class shr > COMPANERT (except) 
+  
+  id = object Z -> 0 
+  id = object C -> interface(C + Z)
+  try ->
+  objectparital  = (type(k)
+  if ( class != then.objectparital = 900)
+  pow ninja is as: 
+      get.byte[]{ 
+         "array","list","methed","dim",
+         }
+         else 
+            @published -> ovr(){
+               
+                library list -> []
+                {
+                }except (BaseException) in as v:
+                    null
+                    
+      end
+          
+            

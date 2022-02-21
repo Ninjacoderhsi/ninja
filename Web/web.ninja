@@ -1,0 +1,17 @@
+packed web
+ import java.webkit
+ import android.webkit.*
+ 
+ 
+ private webkit
+ private praperty web
+  
+  
+  
+   web webs -> record get("http","https","com","org",π)
+   webs.getclass(){
+   .getStartlink = true
+   .getjavasrc = true
+   .getImagedownlad = true
+   }
+   
